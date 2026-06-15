@@ -1,0 +1,15 @@
+*{
+    background-color: white;
+}
+
+header{
+  height: 64px;
+  width: 100%;
+}
+  
+
+.companyName{
+    display: flex;
+    align-items: center;
+    color: green;
+}
